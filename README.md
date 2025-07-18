@@ -1,4 +1,4 @@
-⚡ Pokémon API Client with Fetch
+## ⚡ Pokémon API Client with Fetch
 
 Welcome to the Pokémon API Explorer! This project lets you fetch and view detailed info about your favorite Pokémon using the PokéAPI. Whether you're a fan or a developer, this tool helps you discover Pokémon data like types, stats, abilities, and more — all from a clean UI.
 
